@@ -1,0 +1,32 @@
+{
+  "name": "youtube-channel-videos",
+  "version": "1.0.0",
+  "description": "Youtube channel videos fetcher.",
+  "main": "run.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "youtube-api": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almoore/youtube-channel-videos.git"
+  },
+  "keywords": [
+    "youtube",
+    "video",
+    "channel",
+    "list",
+    "info"
+  ],
+  "author": {
+    "name": "Alex Moore",
+    "email": "alexander.g.moore1@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/almoore/youtube-channel-videos/issues"
+  },
+  "homepage": "https://github.com/almoore/youtube-channel-videos#readme"
+}
